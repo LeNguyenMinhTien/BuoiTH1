@@ -1,0 +1,7 @@
+C:\bài tập tk bt pm\DPM225486_HuynhNhatThong_pattern_05_Singleton\Structural\Structural\Structural\bin\Debug\Structural.exe.config
+C:\bài tập tk bt pm\DPM225486_HuynhNhatThong_pattern_05_Singleton\Structural\Structural\Structural\bin\Debug\Structural.exe
+C:\bài tập tk bt pm\DPM225486_HuynhNhatThong_pattern_05_Singleton\Structural\Structural\Structural\bin\Debug\Structural.pdb
+C:\bài tập tk bt pm\DPM225486_HuynhNhatThong_pattern_05_Singleton\Structural\Structural\Structural\obj\Debug\Structural.csproj.AssemblyReference.cache
+C:\bài tập tk bt pm\DPM225486_HuynhNhatThong_pattern_05_Singleton\Structural\Structural\Structural\obj\Debug\Structural.csproj.CoreCompileInputs.cache
+C:\bài tập tk bt pm\DPM225486_HuynhNhatThong_pattern_05_Singleton\Structural\Structural\Structural\obj\Debug\Structural.exe
+C:\bài tập tk bt pm\DPM225486_HuynhNhatThong_pattern_05_Singleton\Structural\Structural\Structural\obj\Debug\Structural.pdb
