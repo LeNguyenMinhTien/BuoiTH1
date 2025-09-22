@@ -1,0 +1,7 @@
+C:\bài tập tk bt pm\DPM225486_HuynhNhatThong_pattern_04_Prototype\Structural\Real-world\Real-world\Real-world\obj\Debug\Real-world.csproj.AssemblyReference.cache
+C:\bài tập tk bt pm\DPM225486_HuynhNhatThong_pattern_04_Prototype\Structural\Real-world\Real-world\Real-world\obj\Debug\Real-world.csproj.CoreCompileInputs.cache
+C:\bài tập tk bt pm\DPM225486_HuynhNhatThong_pattern_04_Prototype\Structural\Real-world\Real-world\Real-world\bin\Debug\Real-world.exe.config
+C:\bài tập tk bt pm\DPM225486_HuynhNhatThong_pattern_04_Prototype\Structural\Real-world\Real-world\Real-world\bin\Debug\Real-world.exe
+C:\bài tập tk bt pm\DPM225486_HuynhNhatThong_pattern_04_Prototype\Structural\Real-world\Real-world\Real-world\bin\Debug\Real-world.pdb
+C:\bài tập tk bt pm\DPM225486_HuynhNhatThong_pattern_04_Prototype\Structural\Real-world\Real-world\Real-world\obj\Debug\Real-world.exe
+C:\bài tập tk bt pm\DPM225486_HuynhNhatThong_pattern_04_Prototype\Structural\Real-world\Real-world\Real-world\obj\Debug\Real-world.pdb
