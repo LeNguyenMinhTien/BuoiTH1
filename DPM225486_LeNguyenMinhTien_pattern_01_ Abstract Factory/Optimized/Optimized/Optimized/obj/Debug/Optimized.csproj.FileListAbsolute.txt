@@ -1,0 +1,14 @@
+C:\bài tập tk bt pm\DPM225486_HuynhNhatThong_pattern_01_ Abstract Factory\Optimized\Optimized\Optimized\obj\Debug\Optimized.csproj.AssemblyReference.cache
+C:\bài tập tk bt pm\DPM225486_HuynhNhatThong_pattern_01_ Abstract Factory\Optimized\Optimized\Optimized\obj\Debug\Optimized.csproj.CoreCompileInputs.cache
+C:\bài tập tk bt pm\DPM225486_HuynhNhatThong_pattern_01_ Abstract Factory\Optimized\Optimized\Optimized\bin\Debug\Optimized.exe.config
+C:\bài tập tk bt pm\DPM225486_HuynhNhatThong_pattern_01_ Abstract Factory\Optimized\Optimized\Optimized\bin\Debug\Optimized.exe
+C:\bài tập tk bt pm\DPM225486_HuynhNhatThong_pattern_01_ Abstract Factory\Optimized\Optimized\Optimized\bin\Debug\Optimized.pdb
+C:\bài tập tk bt pm\DPM225486_HuynhNhatThong_pattern_01_ Abstract Factory\Optimized\Optimized\Optimized\obj\Debug\Optimized.exe
+C:\bài tập tk bt pm\DPM225486_HuynhNhatThong_pattern_01_ Abstract Factory\Optimized\Optimized\Optimized\obj\Debug\Optimized.pdb
+D:\Thiết Kế-Phát Triển-Bảo Trì -Phần Mềm\TH1\DPM225486_LeNguyenMinhTien_pattern_01_ Abstract Factory\Optimized\Optimized\Optimized\bin\Debug\Optimized.exe.config
+D:\Thiết Kế-Phát Triển-Bảo Trì -Phần Mềm\TH1\DPM225486_LeNguyenMinhTien_pattern_01_ Abstract Factory\Optimized\Optimized\Optimized\bin\Debug\Optimized.exe
+D:\Thiết Kế-Phát Triển-Bảo Trì -Phần Mềm\TH1\DPM225486_LeNguyenMinhTien_pattern_01_ Abstract Factory\Optimized\Optimized\Optimized\bin\Debug\Optimized.pdb
+D:\Thiết Kế-Phát Triển-Bảo Trì -Phần Mềm\TH1\DPM225486_LeNguyenMinhTien_pattern_01_ Abstract Factory\Optimized\Optimized\Optimized\obj\Debug\Optimized.csproj.AssemblyReference.cache
+D:\Thiết Kế-Phát Triển-Bảo Trì -Phần Mềm\TH1\DPM225486_LeNguyenMinhTien_pattern_01_ Abstract Factory\Optimized\Optimized\Optimized\obj\Debug\Optimized.csproj.CoreCompileInputs.cache
+D:\Thiết Kế-Phát Triển-Bảo Trì -Phần Mềm\TH1\DPM225486_LeNguyenMinhTien_pattern_01_ Abstract Factory\Optimized\Optimized\Optimized\obj\Debug\Optimized.exe
+D:\Thiết Kế-Phát Triển-Bảo Trì -Phần Mềm\TH1\DPM225486_LeNguyenMinhTien_pattern_01_ Abstract Factory\Optimized\Optimized\Optimized\obj\Debug\Optimized.pdb
